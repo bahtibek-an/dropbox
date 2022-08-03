@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-filesharingapp-dev-230947-authRole",
+      "UnauthRoleArn": "arn:aws:iam::244624059615:role/amplify-filesharingapp-dev-230947-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::244624059615:role/amplify-filesharingapp-dev-230947-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-filesharingapp-dev-230947-deployment",
+      "UnauthRoleName": "amplify-filesharingapp-dev-230947-unauthRole",
+      "StackName": "amplify-filesharingapp-dev-230947",
+      "StackId": "arn:aws:cloudformation:us-east-1:244624059615:stack/amplify-filesharingapp-dev-230947/24712de0-11c5-11ed-82e6-124c7440945b",
+      "AmplifyAppId": "d3nndw1wzkxzv2"
+    },
+    "categories": {
+      "auth": {
+        "filesharingapp71d6636f": {}
+      },
+      "function": {
+        "S3Triggerd266e19c": {
+          "deploymentBucketName": "amplify-filesharingapp-dev-230947-deployment",
+          "s3Key": "amplify-builds/S3Triggerd266e19c-4e2b734d447051674b70-build.zip"
+        }
+      }
+    }
+  }
+}
